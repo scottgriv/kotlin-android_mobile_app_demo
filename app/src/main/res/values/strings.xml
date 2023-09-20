@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">kotlin-demo_mobile_app</string>
+    <string name="button_clicked_message">Button was clicked!</string>
+</resources>
