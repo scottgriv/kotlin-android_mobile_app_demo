@@ -4,6 +4,14 @@ A simple mobile app written in Kotlin using Android Studio.
 - Click the button to change the background color of the app from **Red** to **Blue**.
 - The button text will also change from "Red" to "Blue" and vice versa.
 
+<div align="center">
+    <a href="https://developer.android.com/studio" target="_blank">
+        <img src="./docs/images/android_demo.gif" style="width: 35%;"/>
+    </a>
+    <br>
+    <i>It's easy to get started with Kotlin and Android Studio!</i>
+</div>
+
 # Getting Started
 1. Download and install [Android Studio](https://developer.android.com/studio).
 2. Clone this repository to your local machine.
