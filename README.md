@@ -39,4 +39,4 @@ A simple mobile app written in Kotlin using Android Studio.
 **Author:** Scott Grivner <br>
 **Email:** scott.grivner@gmail.com <br>
 **Website:** [scottgrivner.dev](https://www.scottgriv.dev) <br>
-**Reference:** [Main Branch](https://github.com/scottgriv/csharp-nunit_demo_app) <br>
+**Reference:** [Main Branch](https://github.com/scottgriv/kotlin-android_mobile_app_demo) <br>
